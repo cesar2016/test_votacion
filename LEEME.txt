@@ -1,3 +1,19 @@
- // URL del Repo:
+ // Formulario de VOTACION challenge 2023
 
- - 
+ - Clone el Repositorio desde esta URL: https://github.com/cesar2016/test_votacion.git
+ - Coloque la carpeta en la raiz de su servidor ( htdocs, etc )
+ - Cree una DB con el nombre "desis_form" 
+ - Importe el archivo llamado desis_form.sql que se encuenra en la carpeta sql
+
+ NOTA: LA DB ya cuenta con canditados cargados, si quiere volver a cargarlos, debe precionar el boton "Agregar candidatos aleatorios"
+ - El script de carga de los candidatos se encuentra en Models/Listates.php, este toma un array de candidatos listados en Models/NamesCandidates
+
+  *
+  *
+  *
+  *
+  *
+  -- Desarrollado por Cesar R Sanches - Argentina - +54 3408675665 --
+     Linkedin: https://www.linkedin.com/in/cesar-sanchez-dev/
+     CV: https://shorten.world/qxnxs  
+     https://wa.me/543408675665
