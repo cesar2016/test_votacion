@@ -3,6 +3,7 @@
  - Clone el Repositorio desde esta URL: https://github.com/cesar2016/test_votacion.git
  - Coloque la carpeta en la raiz de su servidor ( htdocs, etc )
  - Cree una DB con el nombre "desis_form" 
+ - Modifique variables de entorno desde el archivo Models/DataBase.php
  - Importe el archivo llamado desis_form.sql que se encuenra en la carpeta sql
 
  NOTA: LA DB ya cuenta con canditados cargados, si quiere volver a cargarlos, debe precionar el boton "Agregar candidatos aleatorios"
